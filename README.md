@@ -6,5 +6,5 @@ The adapter can be directly plugged into the [20-pin JTAG interface](https://www
 
 It is can be directly [ordered at OSHpark](https://oshpark.com/shared_projects/WIUZbvZ1)
 
-![SEGGER J-Link with ARM Cortex Tag-Connect 2050 Adapter connected to Nordic PCA10028](xxx.jpg)
+![SEGGER J-Link with ARM Cortex Tag-Connect 2050 Adapter connected to Nordic PCA10028](j-link-with-pca10028.jpg)
 
