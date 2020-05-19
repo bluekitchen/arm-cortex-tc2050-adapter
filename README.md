@@ -8,3 +8,4 @@ It is can be directly [ordered at OSHpark](https://oshpark.com/shared_projects/W
 
 ![SEGGER J-Link with ARM Cortex Tag-Connect 2050 Adapter connected to Nordic PCA10028](j-link-with-pca10028.jpg)
 
+![Schematic](schematic.png)
